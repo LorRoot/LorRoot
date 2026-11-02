@@ -4,8 +4,8 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/abolfazlkheiri9366)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ajakxhpe)
-[![ProtonMail](https://img.shields.io/badge/Contact-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:ajakxhpe@proton.me)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/LorRoot)
+[![ProtonMail](https://img.shields.io/badge/Contact-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:LorRoot@proton.me)
 
 
 # 💻 Tech Stack:
